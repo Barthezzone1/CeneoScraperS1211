@@ -20,7 +20,7 @@
         "verfied": true,
         "post_date": "2020-08-24 14:26:02",
         "purchase_date": "2020-08-19 08:37:27",
-        "usefulness": 58,
+        "usefulness": 59,
         "uselessness": 10,
         "opinion_id": "12996728"
     },
@@ -180,6 +180,25 @@
         "opinion_id": "14010672"
     },
     {
+        "author": "K...l",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Król w swojej kategorii cenowej, w zestawie etui i naklejona folia zabezpieczająca na ekran, bardzo dobry tryb ultraoszczędny, zdjęcia przyzwoite, dźwięk jak na tą półkę cenową na plus, kupiony w promocji za 540zł",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "płynnie działa",
+            "wygląd"
+        ],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-04-28 14:15:52",
+        "purchase_date": "2021-04-19 07:18:27",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14373522"
+    },
+    {
         "author": "Łukasz",
         "recommendation": true,
         "stars": 5.0,
@@ -305,6 +324,30 @@
         "usefulness": 0,
         "uselessness": 0,
         "opinion_id": "14149358"
+    },
+    {
+        "author": "s...n",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Produkt raczej mnie rozczarował,telefon zawiesił się już parę razy,I co dziwne poprzednik redmi 4x ani razu przy paru latach użytkowania.",
+        "pros": [
+            "czas pracy na baterii",
+            "jakość rozmów",
+            "łatwość obsługi",
+            "wygląd",
+            "wykonanie"
+        ],
+        "cons": [
+            "funkcjonalność",
+            "płynnie działa",
+            "szybkość działania"
+        ],
+        "verfied": true,
+        "post_date": "2021-04-28 07:43:51",
+        "purchase_date": "2021-04-16 21:31:01",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14370304"
     },
     {
         "author": "p...1",
@@ -1182,6 +1225,20 @@
         "usefulness": 0,
         "uselessness": 0,
         "opinion_id": "14288796"
+    },
+    {
+        "author": "d...3",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Jest dobry nie zacina się",
+        "pros": [],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-05-01 06:17:11",
+        "purchase_date": "2021-04-20 07:46:37",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14391603"
     },
     {
         "author": "Oksana",
@@ -2191,6 +2248,22 @@
         "opinion_id": "14349839"
     },
     {
+        "author": "j...e",
+        "recommendation": false,
+        "stars": 2.5,
+        "content": "Cudowny lepszy od samsubow za 50000 tys",
+        "pros": [
+            "łatwość obsługi"
+        ],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-03-17 19:58:49",
+        "purchase_date": "2021-03-03 11:41:56",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14133358"
+    },
+    {
         "author": "m...5",
         "recommendation": null,
         "stars": 3.0,
@@ -2249,22 +2322,6 @@
         "usefulness": 0,
         "uselessness": 1,
         "opinion_id": "13329056"
-    },
-    {
-        "author": "j...e",
-        "recommendation": false,
-        "stars": 2.5,
-        "content": "Cudowny lepszy od samsubow za 50000 tys",
-        "pros": [
-            "łatwość obsługi"
-        ],
-        "cons": [],
-        "verfied": true,
-        "post_date": "2021-03-17 19:58:49",
-        "purchase_date": "2021-03-03 11:41:56",
-        "usefulness": 0,
-        "uselessness": 0,
-        "opinion_id": "14133358"
     },
     {
         "author": "g...o",
@@ -3335,6 +3392,25 @@
         "opinion_id": "13391442"
     },
     {
+        "author": "b...i",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "W tej cenie świetny sprzet z tej półki",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-04-27 20:41:26",
+        "purchase_date": "2021-04-14 23:29:45",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14367797"
+    },
+    {
         "author": "k...k",
         "recommendation": true,
         "stars": 4.0,
@@ -4396,6 +4472,32 @@
         "opinion_id": "13466392"
     },
     {
+        "author": "k...9",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "świetny produkt",
+        "pros": [
+            "czas pracy na baterii",
+            "dobry ekran",
+            "funkcjonalność",
+            "jakość rozmów",
+            "łatwość obsługi",
+            "płynnie działa",
+            "przeciętny aparat",
+            "szybkość działania",
+            "wielkość",
+            "wygląd",
+            "wykonanie"
+        ],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-04-28 21:38:40",
+        "purchase_date": "2021-04-13 11:39:00",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14376588"
+    },
+    {
         "author": "e...8",
         "recommendation": true,
         "stars": 5.0,
@@ -4451,6 +4553,20 @@
         "usefulness": 0,
         "uselessness": 0,
         "opinion_id": "13842454"
+    },
+    {
+        "author": "d...6",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Super polecam",
+        "pros": [],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-04-27 18:39:52",
+        "purchase_date": "2021-03-28 14:44:09",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14366978"
     },
     {
         "author": "a...s",
@@ -4886,6 +5002,25 @@
         "opinion_id": "13158103"
     },
     {
+        "author": "h...a",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Super",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-04-28 13:09:01",
+        "purchase_date": "2021-04-13 11:13:12",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14373161"
+    },
+    {
         "author": "k...3",
         "recommendation": true,
         "stars": 5.0,
@@ -5273,6 +5408,58 @@
         "usefulness": 0,
         "uselessness": 0,
         "opinion_id": "13474827"
+    },
+    {
+        "author": "m...5",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Ok",
+        "pros": [],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-05-03 21:32:04",
+        "purchase_date": "2021-03-31 20:17:12",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14397773"
+    },
+    {
+        "author": "k...9",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Ok",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-04-30 21:46:11",
+        "purchase_date": "2021-03-31 06:29:42",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14390552"
+    },
+    {
+        "author": "i...c",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Ok",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "verfied": true,
+        "post_date": "2021-04-28 20:26:17",
+        "purchase_date": "2021-04-14 14:25:54",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14375639"
     },
     {
         "author": "j...6",
